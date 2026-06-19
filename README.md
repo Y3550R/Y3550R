@@ -4,11 +4,11 @@ Hello! My name is Y3550R (Real name is Kyle). I'm 20 years old and currently stu
 ### TL;DR
 - Kyle, 20
 - He/Him
-- Studying **Computer Engineering** in **Year 2**
+- Studying **Computer Engineering** in **Year 3**
 - Self-studying **Cybersecurity**, specifically **Pentester** field
-- Codes in **Python**, **Java**, **Lua**, **Bash**, etc.
+- Proficient in **Python**, **Java**, **Lua**, **Bash**, etc.
 - Created and self-published video games on Roblox
-- Uses **Windows 11** & **EndeavourOS Linux**
+- Uses **Windows 11** & **CachyOS Linux**
 
 ### Links
 - [Portfolio Site (WIP)](https://y3550r.github.io/)
